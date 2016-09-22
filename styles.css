@@ -1,0 +1,84 @@
+
+.nav-wrapper {
+  background-color: #F4F4F4;
+}
+
+.shop {
+  color: #E9188C;
+}
+
+.create {
+  color: #2BACE2;
+}
+
+.printFabric {
+  color: black;
+}
+
+.dropShip {
+  color: #E9188C;
+}
+
+.wholesale {
+  color: #2BACE2;
+}
+
+.products {
+  color: black;
+}
+
+.info {
+  color: black;
+}
+
+.login {
+  color: black;
+}
+
+.signup {
+  color: black;
+}
+
+.fr {
+  color: black;
+}
+
+i {
+  color:black;
+}
+
+.row {
+margin-top: 20px;
+background-size: cover;
+width: 100vw;
+height: 100%;
+}
+
+.row img, .row div {
+  height: 100%;
+  width: 100%;
+}
+
+#image1 {
+  background-image: url("https://static.artofwhere.net/img/home-slider/girl-running-custom-printed-shorts.jpg");
+  background-size: cover;
+}
+
+#image2 {
+  background-image: url("https://static.artofwhere.net/img/home-slider/girl-sewing.jpg");
+  background-size: cover;
+}
+
+#image3 {
+  background-image: url("https://static.artofwhere.net/img/home-slider/wood-prints-1.jpg");
+  background-size: cover;
+}
+#image4 {
+  background-image: url("https://static.artofwhere.net/img/pages/fabric/fabric-printing-bg.jpg");
+  background-size: cover;
+}
+
+#image5 {
+  background-image: url("https://static.artofwhere.net/img/pages/drop-ship/bigcartel/artist-workplace.jpg");
+  background-size: cover;
+}
