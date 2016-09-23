@@ -59,6 +59,11 @@ height: 100%;
   width: 100%;
 }
 
+h5 {
+  color: #04AFEF;
+  margin: 20px;
+}
+
 #image1 {
   background-image: url("https://static.artofwhere.net/img/home-slider/girl-running-custom-printed-shorts.jpg");
   background-size: cover;
